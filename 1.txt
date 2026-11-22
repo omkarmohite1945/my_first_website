@@ -1,0 +1,1 @@
+this is the 1.txt file and my frist file when i am learning git for data science for the first time
